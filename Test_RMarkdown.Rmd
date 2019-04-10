@@ -2,7 +2,9 @@
 title: "Test RMarkdown"
 author: "Brent O'Carrigan"
 date: "10/04/2019"
-output: gitub_document
+output:
+  html_document:
+      keep_md: true
 ---
 
 ```{r setup, include=FALSE}
