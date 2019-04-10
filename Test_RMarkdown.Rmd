@@ -2,7 +2,7 @@
 title: "Test RMarkdown"
 author: "Brent O'Carrigan"
 date: "10/04/2019"
-output: github_document
+output: html_document
   keep_md: TRUE
 ---
 
